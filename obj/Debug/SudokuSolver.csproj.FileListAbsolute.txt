@@ -1,0 +1,6 @@
+C:\Users\akbul\Desktop\workspace\CSharp\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\akbul\Desktop\workspace\CSharp\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\akbul\Desktop\workspace\CSharp\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+C:\Users\akbul\Desktop\workspace\CSharp\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Desktop\workspace\CSharp\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\akbul\Desktop\workspace\CSharp\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
