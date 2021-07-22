@@ -1,5 +1,5 @@
 # SudokuSolver
-Produces solution for 9x9 sudoku puzzles. Takes 2D int array as an input and write solution into console.
+Recursive backtracking algorithm to solve 9x9 sudoku puzzles. Takes 2D int array as an input and write solution into console.
 
 Example Input : 
 ```cs
